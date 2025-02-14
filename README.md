@@ -26,21 +26,21 @@ learning, SVM, clustering to identify volumes using Scikit-Learn package in Pyth
 #### _Jan 2022 – Jun 2023 | Bhubaneswar, IN_
   
 - DevOps CI/CD pipeline integrated with serverless AWS Lambda
-– Built DevOps CI/CD pipeline using AWS (serverless Lambda, S3, Cloudwatch, SQS),
+- Built DevOps CI/CD pipeline using AWS (serverless Lambda, S3, Cloudwatch, SQS),
 GitHub (Code repository), Jenkins (for Automated Continuous Integration and
 Orchestration), UDeploy (for Continuous Deployment), Snowflake (for data storage
 through a Snowpipe) integrated with Splunk ( Search Processing Language for
 monitoring, searching & to generate alert and email notifications).
-– Hands-on experience in Python, JSON Validator, SQL queries, Bash & Shell scripting.
-  
+- Hands-on experience in Python, JSON Validator, SQL queries, Bash & Shell scripting.
+
 - SAS to Python-Pyspark Migration
-– Developed and optimized Pyspark codes and automated them in the EMR cluster.
-– Migrated terabytes of on-prem data into cloud (Snowflake, & AWS S3) & also
+- Developed and optimized Pyspark codes and automated them in the EMR cluster.
+- Migrated terabytes of on-prem data into cloud (Snowflake, & AWS S3) & also
 migrated SAS codes into Pyspark & Python with 100% accuracy, thereby saving
 nearly $800M of the client per year.
-– Designed project flows and built AI & ML data pipelines using visual and code recipes
+- Designed project flows and built AI & ML data pipelines using visual and code recipes
 in the Dataiku DSS (Data Science Studio).
-– Led multiple LOBs and mentored at least 10 junior developers & honed their skills.
+- Led multiple LOBs and mentored at least 10 junior developers & honed their skills.
 
 ### CAPGEMINI, PRICE PREDICTION ML MODEL | Data Scientist
 #### _Oct 2020 – Dec 2021 | Bangalore, IN_
