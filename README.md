@@ -2,13 +2,14 @@
 
 #### Technical Skills: Python, Pyspark, SQL, AWS, Snowflake, SAS
 
-## Education							       		
+## Education
+
 - M.Sc., Mathematics	| Ravenshaw University, Cuttack, India (_2020_)	
 
 ## Work Experience
 
-**HSBC, ML/NLP | Senior Data Scientist & ML/NLP Engineer**
-**_Jun 2023 – Till Date | Hyderabad, IN_**
+### HSBC, ML/NLP | Senior Data Scientist & ML/NLP Engineer
+### _Jun 2023 – Till Date | Hyderabad, IN_
 
 - Performed data cleaning, features scaling, and feature engineering using Pandas &
 NumPy packages in Python and ensured data quality, integrity & consistency.
@@ -21,8 +22,8 @@ unsupervised, regression models, social network analysis, neural networks, deep
 learning, SVM, clustering to identify volumes using Scikit-Learn package in Python.
 - Developed NLP models for topic extraction, sentiment analysis and text classification.
 - 
-**CAPGEMINI, MVP ARCHITECTURE & MIGRATION | Data Engineer**
-**_Jan 2022 – Jun 2023 | Bhubaneswar, IN_**
+### CAPGEMINI, MVP ARCHITECTURE & MIGRATION | Data Engineer
+### _Jan 2022 – Jun 2023 | Bhubaneswar, IN_
   
 - _DevOps CI/CD pipeline integrated with serverless AWS Lambda_
 – Built DevOps CI/CD pipeline using AWS (serverless Lambda, S3, Cloudwatch, SQS),
@@ -41,8 +42,8 @@ nearly $800M of the client per year.
 in the Dataiku DSS (Data Science Studio).
 – Led multiple LOBs and mentored at least 10 junior developers & honed their skills.
 
-**CAPGEMINI, PRICE PREDICTION ML MODEL | Data Scientist**
-**_Oct 2020 – Dec 2021 | Bangalore, IN_**
+### CAPGEMINI, PRICE PREDICTION ML MODEL | Data Scientist
+### _Oct 2020 – Dec 2021 | Bangalore, IN_
   
 - Scraped, cleaned, and assimilated AirBNB hotels & customers data as inputs for building
 an ML model to predict the price of any Airbnb hotel.
@@ -65,9 +66,9 @@ Lasso & Ridge, etc. while making sure that our model is not over-fitting the tra
 
 ## Languages Known
 
-**English:** Full Professional Proficiency
-**Hindi:** Native/Bilingual
-**Odia:** Native/Bilingual
+- **English:** Full Professional Proficiency
+- **Hindi:** Native/Bilingual
+- **Odia:** Native/Bilingual
 
 ## Certificates
 
