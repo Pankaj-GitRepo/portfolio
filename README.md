@@ -25,7 +25,7 @@ learning, SVM, clustering to identify volumes using Scikit-Learn package in Pyth
 ### CAPGEMINI, MVP ARCHITECTURE & MIGRATION | Data Engineer
 #### _Jan 2022 – Jun 2023 | Bhubaneswar, IN_
   
-- DevOps CI/CD pipeline integrated with serverless AWS Lambda
+- _(DevOps CI/CD pipeline integrated with serverless AWS Lambda)_
 - Built DevOps CI/CD pipeline using AWS (serverless Lambda, S3, Cloudwatch, SQS),
 GitHub (Code repository), Jenkins (for Automated Continuous Integration and
 Orchestration), UDeploy (for Continuous Deployment), Snowflake (for data storage
@@ -33,7 +33,7 @@ through a Snowpipe) integrated with Splunk ( Search Processing Language for
 monitoring, searching & to generate alert and email notifications).
 - Hands-on experience in Python, JSON Validator, SQL queries, Bash & Shell scripting.
 
-- SAS to Python-Pyspark Migration
+- _(SAS to Python-Pyspark Migration)_
 - Developed and optimized Pyspark codes and automated them in the EMR cluster.
 - Migrated terabytes of on-prem data into cloud (Snowflake, & AWS S3) & also
 migrated SAS codes into Pyspark & Python with 100% accuracy, thereby saving
